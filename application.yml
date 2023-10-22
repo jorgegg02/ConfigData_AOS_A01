@@ -35,5 +35,5 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 spring:
   config:
     activate:
-      on-profile: noum  
+      on-profile: noun  
 words: boat,book,vote,seat,backpack,partition,groundhog
